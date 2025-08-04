@@ -1,0 +1,1 @@
+A sunny day makes you squint your eyes.

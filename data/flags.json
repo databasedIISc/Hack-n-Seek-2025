@@ -1,0 +1,267 @@
+{
+  "rules_and_regulations": {
+    "problem": "rules_and_regulations.md",
+    "flag": "dbdth{readtherulesletsgoooo}",
+    "points": 20,
+    "attachments": [],
+    "author": "Databased Team & Anirudh Gupta"
+  },
+  "pip_install_or_pypi": {
+    "problem": "pip_install_or_pypi.md",
+    "flag": "dbdth{looking_at_the_source_code}",
+    "author": "Anirudh Gupta",
+    "points": 35,
+    "attachments": []
+  },
+  "brainrot13": {
+    "problem": "brainrot13.md",
+    "flag": "dbdth{freshgenzbrainz}",
+    "author": "Anirudh Gupta",
+    "points": 20,
+    "attachments": []
+  },
+  "beat_my_score_dino_game": {
+    "problem": "beat_my_score_dino_game.md",
+    "flag": "dbdth{dino_game_t_rex}",
+    "author": "Anirudh Gupta",
+    "points": 20,
+    "attachments": []
+  },
+  "Secret_C_Shop": {
+    "problem": "Secret_C_Shop.md",
+    "flag": "dbdth{c_integer_overflow_is_cliche}",
+    "author": "Anirudh Gupta",
+    "points": 30,
+    "attachments": []
+  },
+  "Nullify_The_Hydra": {
+    "problem": "Nullify_The_Hydra.md",
+    "flag": "dbdth{no_cookies_no_hydra}",
+    "author": "Anirudh Gupta",
+    "points": 25,
+    "attachments": []
+  },
+  "Negative_Space": {
+    "problem": "Negative_Space.md",
+    "flag": "dbdth{hidden_in_plain_sight}",
+    "author": "Aditya Arsh",
+    "points": 20,
+    "attachments": [
+      {
+        "type": "file",
+        "path": "Attachments/Negative_Space_Problem0.pdf"
+      }
+    ]
+  },
+  "Sunny_Day": {
+    "problem": "Sunny_Day.md",
+    "flag": "dbdth{squint_ur_eyes}",
+    "author": "Aditya Arsh",
+    "points": 30,
+    "attachments": [
+      {
+        "type": "image",
+        "path": "Attachments/Sunny_Day_Problem1.jpg"
+      }
+    ]
+  },
+  "Worms": {
+    "problem": "Worms.md",
+    "flag": "dbdth{weird_fishes}",
+    "author": "Aditya Arsh",
+    "points": 20,
+    "attachments": []
+  },
+  "Relic": {
+    "problem": "Relic.md",
+    "flag": "dbdth{great_job_mate}",
+    "author": "Aditya Arsh",
+    "points": 35,
+    "attachments": []
+  },
+  "Meadows": {
+    "problem": "Meadows.md",
+    "flag": "dbdth{pet_the_dog}",
+    "author": "Aditya Arsh",
+    "points": 25,
+    "attachments": []
+  },
+  "sanity_pt_1": {
+    "problem": "sanity_pt_1.md",
+    "flag": "dbdth{sanity}",
+    "author": "hasini",
+    "points": 20,
+    "attachments": []
+  },
+  "sanity_pt_2": {
+    "problem": "sanity_pt_2.md",
+    "flag": "dbdth{dbdth{sanity}}",
+    "author": "hasini",
+    "points": 20,
+    "attachments": []
+  },
+  "superbrainrot13": {
+    "problem": "superbrainrot13.md",
+    "flag": "dbdth{super_rot_xor}",
+    "author": "Anirudh Gupta",
+    "points": 35,
+    "attachments": [
+      {
+        "type": "file",
+        "path": "Attachments/superbrainrot13_superbrainencryption.binary"
+      }
+    ]
+  },
+  "One_Bing_to_Rule_Them_All": {
+    "problem": "One_Bing_to_Rule_Them_All.md",
+    "flag": "dbdth{not-so-middle_earth}",
+    "author": "Agrim Arsh",
+    "points": 30,
+    "attachments": [
+      {
+        "type": "image",
+        "path": "Attachments/One_Bing_to_Rule_Them_All_one_bing_to_rule_them_all.png"
+      }
+    ]
+  },
+  "Determination": {
+    "problem": "Determination.md",
+    "flag": "dbth{hesoyam}",
+    "author": "Jashandeep",
+    "points": 25,
+    "attachments": [
+      {
+        "type": "file",
+        "path": "Attachments/Determination_SCP-372_Highlights.pdf"
+      }
+    ]
+  },
+  "What_you_hear_is_the_hint": {
+    "problem": "What_you_hear_is_the_hint.md",
+    "flag": "dbdth{fft_ftw}",
+    "author": "Jashandeep",
+    "points": 35,
+    "attachments": [
+      {
+        "type": "file",
+        "path": "Attachments/What_you_hear_is_the_hint_kukri.wav"
+      }
+    ]
+  },
+  "Hecker_and_Beluga": {
+    "problem": "Hecker_and_Beluga.md",
+    "flag": "dbdth{mapmapmap}",
+    "author": "Agrim Arsh",
+    "points": 30,
+    "attachments": []
+  },
+  "XORbitron": {
+    "problem": "XORbitron.md",
+    "flag": "dbdth{x-ray_vision}",
+    "author": "Aditey Nandan",
+    "points": 30,
+    "attachments": []
+  },
+  "Pitch_Perfect": {
+    "problem": "Pitch_Perfect.md",
+    "flag": "dbdth{nineteen_eighty_chor}",
+    "author": "Aditey Nandan",
+    "points": 30,
+    "attachments": [
+      {
+        "type": "image",
+        "path": "Attachments/Pitch_Perfect_PixelPerfect.PNG"
+      }
+    ]
+  },
+  "Aerial_Photo_of_India_from_an_altitude_of_2_feet": {
+    "problem": "Aerial_Photo_of_India_from_an_altitude_of_2_feet.md",
+    "flag": "dbdth{i_got_rickrolled_by_a-qr}",
+    "author": "Agrim Arsh",
+    "points": 20,
+    "attachments": []
+  },
+  "Chopin's_Secret": {
+    "problem": "Chopin's_Secret.md",
+    "flag": "dbdth{glassworks}",
+    "author": "Aditey Nandan",
+    "points": 40,
+    "attachments": [
+      {
+        "type": "file",
+        "path": "Attachments/Chopin's_Secret_MusicHacknSeek.m4a"
+      }
+    ]
+  },
+  "Windows93_Go_Deep_and_Exlore": {
+    "problem": "Windows93_Go_Deep_and_Explore.md",
+    "flag": "dbdth{i_just_saw_porn}",
+    "author": "Anonymous",
+    "points": 69,
+    "attachments": []
+  },
+  "Quarks": {
+    "problem": "Quarks.md",
+    "flag": "dbdth{i_visited_a_blank_page}",
+    "author": "Aditey Nandan",
+    "points": 25,
+    "attachments": []
+  },
+  "Youtube_is_Disliked": {
+    "problem": "Youtube_is_Disliked.md",
+    "flag": "dbdth{9535}",
+    "author": "Anirudh Gupta",
+    "points": 20,
+    "attachments": []
+  },
+  "Touch_Grass": {
+    "problem": "Touch_Grass.md",
+    "flag": "dbdth{ultimate_mission}",
+    "author": "Team Databased and Anirudh Gupta",
+    "points": 50,
+    "attachments": []
+  },
+  "Vicodin_Addict": {
+    "problem": "Vicodin_Addict.md",
+    "flag": "dbdth{lupus}",
+    "author": "Aditey Nandan",
+    "points": 20,
+    "attachments": []
+  },
+  "rierre1": {
+    "problem": "rierre1.md",
+    "flag": "dbdth{rex}",
+    "author": "hasini",
+    "points": 20,
+    "attachments": []
+  },
+  "The_Last_Problem": {
+    "problem": "The_Last_Problem.md",
+    "flag": "dbdth{taptap}",
+    "author": "Agrim",
+    "points": 30,
+    "attachments": []
+  },
+  "Rierre4": {
+    "problem": "Rierre4.md",
+    "flag": "dbdth{i_am_so_fucking_tired_i_need_sleep}",
+    "author": "hasini",
+    "points": 35,
+    "attachments": []
+  },
+  "Rierre2": {
+    "problem": "Rierre2.md",
+    "flag": "dbdth{the_news_is_hiding_something_from_the_public_lmao_skibidi_yayyyy}",
+    "author": "hasini",
+    "points": 25,
+    "attachments": []
+  },
+  "Rierre3": {
+    "problem": "Rierre3.md",
+    "flag": "dbdth{shady_ahh_forest_on_skibidi}",
+    "author": "hasini",
+    "points": 30,
+    "attachments": []
+  }
+}
+

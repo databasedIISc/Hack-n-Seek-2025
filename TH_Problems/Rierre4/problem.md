@@ -1,0 +1,1 @@
+completed story, image linked here: put this https://files.catbox.moe/7oeegq.png
